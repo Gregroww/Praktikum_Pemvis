@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\homeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\homeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\cetakbukti.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\cetakbukti.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\reservasiuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\reservasiuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\cetakbukti.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\cetakbukti.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\reservasiuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\reservasiuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\homeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\homeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\menuuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\menuuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\menuuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\menuuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|c:\\users\\lenovo\\downloads\\proyek_akhir_pemvis\\posttest5\\dbfunc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5651C1B0-E7E0-405D-9E39-65815634BA63}|Posttest5\\hotelManagement.vbproj|solutionrelative:posttest5\\dbfunc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homeForm.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\homeForm.vb",
+              "RelativeDocumentMoniker": "Posttest5\\homeForm.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\homeForm.vb",
+              "RelativeToolTip": "Posttest5\\homeForm.vb",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwMwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T06:11:58.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "reservasiUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\reservasiUser.vb",
+              "RelativeDocumentMoniker": "Posttest5\\reservasiUser.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\reservasiUser.vb [Design]",
+              "RelativeToolTip": "Posttest5\\reservasiUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T12:24:16.142Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registerForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\registerForm.vb",
+              "RelativeDocumentMoniker": "Posttest5\\registerForm.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\registerForm.vb [Design]",
+              "RelativeToolTip": "Posttest5\\registerForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T15:02:00.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "menuUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\menuUser.vb",
+              "RelativeDocumentMoniker": "Posttest5\\menuUser.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\menuUser.vb [Design]",
+              "RelativeToolTip": "Posttest5\\menuUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T06:23:49.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "menuUser.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\menuUser.vb",
+              "RelativeDocumentMoniker": "Posttest5\\menuUser.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\menuUser.vb",
+              "RelativeToolTip": "Posttest5\\menuUser.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T06:23:52.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbfunc.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\dbfunc.vb",
+              "RelativeDocumentMoniker": "Posttest5\\dbfunc.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\dbfunc.vb",
+              "RelativeToolTip": "Posttest5\\dbfunc.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T05:21:57.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reservasiUser.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\reservasiUser.vb",
+              "RelativeDocumentMoniker": "Posttest5\\reservasiUser.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\reservasiUser.vb",
+              "RelativeToolTip": "Posttest5\\reservasiUser.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T06:26:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loginForm.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\loginForm.vb",
+              "RelativeDocumentMoniker": "Posttest5\\loginForm.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\loginForm.vb",
+              "RelativeToolTip": "Posttest5\\loginForm.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T07:11:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cetakBukti.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\cetakBukti.vb",
+              "RelativeDocumentMoniker": "Posttest5\\cetakBukti.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\cetakBukti.vb",
+              "RelativeToolTip": "Posttest5\\cetakBukti.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T13:53:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registerForm.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\registerForm.vb",
+              "RelativeDocumentMoniker": "Posttest5\\registerForm.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\registerForm.vb",
+              "RelativeToolTip": "Posttest5\\registerForm.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T06:24:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cetakBukti.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\cetakBukti.vb",
+              "RelativeDocumentMoniker": "Posttest5\\cetakBukti.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\cetakBukti.vb [Design]",
+              "RelativeToolTip": "Posttest5\\cetakBukti.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T12:29:53.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "homeForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\homeForm.vb",
+              "RelativeDocumentMoniker": "Posttest5\\homeForm.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Proyek_Akhir_Pemvis\\Posttest5\\homeForm.vb [Design]",
+              "RelativeToolTip": "Posttest5\\homeForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-16T12:47:54.314Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1669,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
